@@ -1,7 +1,5 @@
 <div align="center">
-  
-  ![09](https://user-images.githubusercontent.com/50096374/161422197-1a172ae6-ad55-494d-8dee-6c0e8f6da781.gif)
-  #
+ 
   <div align="left">
     
   #### EunJeong 🎓
