@@ -20,11 +20,7 @@
   <img src="https://img.shields.io/badge/Angular.js-DD0031?style=flat-square&logo=angularjs&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
   <br>
-  
-  #
-  #### Coding Test Study 📖
-  <a href="https://solved.ac/profile/silverj"><img src="http://mazandi.herokuapp.com/api?handle=silverj&theme=warm" /></a>
-    
+
   #
   #### Trophy 🏆
   ![trophy](https://github-profile-trophy.vercel.app/?username=ezzanzzan)
