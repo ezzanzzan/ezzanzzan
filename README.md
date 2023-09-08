@@ -5,7 +5,9 @@
   #### EunJeong 🎓
   <a href="https://github.com/eunzzan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
   <a href="https://oxrlo.tistory.com/"><img src="https://img.shields.io/badge/Tistory-F0A500?style=flat-square&logo=Funimation&logoColor=white"/></a>
+  <!--
   <a href="https://www.acmicpc.net/user/silverj"><img src="https://img.shields.io/badge/BaekJoon-2FA4FF?style=flat-square&logo=Bilibili&logoColor=white"/></a>
+  -->
    #
   
    #### Solved.ac
